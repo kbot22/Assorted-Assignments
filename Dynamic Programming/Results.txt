@@ -1,0 +1,98 @@
+[kaleb@KalebsCrackedComputer cs4120project2]$ python matrix.py
+Iterative:
+(560, 1)
+Recursive:
+560
+Memoized:
+(560, 1)
+Iterative:
+(13025, 4)
+Recursive:
+13025
+Memoized:
+(13025, 4)
+Iterative:
+(11270, 17)
+Recursive:
+11270
+Memoized:
+(11270, 17)
+Final Results:
+Sample Set 1.0
+Iterative: 6.39080008113524e-05
+Recursive: 8.453299960820004e-05
+Memoized: 6.197500078997109e-05
+Sample Set 2.0
+Iterative: 5.272700036584865e-05
+Recursive: 0.00023097699886420742
+Memoized: 7.320900112972595e-05
+Sample Set 3.0
+Iterative: 0.0004988909986423096
+Recursive: 32.06394787699901
+Memoized: 0.00032638199991197325
+
+[kaleb@KalebsCrackedComputer cs4120project2]$ python fib.py
+Iterative:
+2
+Recursive:
+2
+Memoized:
+2
+Iterative:
+21
+Recursive:
+21
+Memoized:
+21
+Iterative:
+1346269
+Recursive:
+1346269
+Memoized:
+1346269
+Iterative:
+89
+Recursive:
+89
+Memoized:
+89
+Iterative:
+0
+Recursive:
+0
+Memoized:
+0
+Iterative:
+34
+Recursive:
+34
+Memoized:
+34
+Iterative:
+20365011074
+Recursive:
+20365011074
+Memoized:
+20365011074
+Final Results:
+Iterative: 3.4210006560897455e-06
+Recursive: 1.806999534892384e-06
+Memoized: 2.4900000425986946e-06
+Iterative: 2.842999492713716e-06
+Recursive: 3.0780001907260157e-06
+Memoized: 3.7190002331044525e-06
+Iterative: 2.958000550279394e-06
+Recursive: 0.034461743000065326
+Memoized: 6.786000085412525e-06
+Iterative: 3.0649998734588735e-06
+Recursive: 5.509000402525999e-06
+Memoized: 3.144999936921522e-06
+Iterative: 5.305000740918331e-06
+Recursive: 1.24100006360095e-06
+Memoized: 1.3250000847619958e-06
+Iterative: 1.8779992387862876e-06
+Recursive: 5.701999725715723e-06
+Memoized: 1.8139999156119302e-06
+Iterative: 3.887999810103793e-06
+Recursive: 528.677457973
+Memoized: 1.1677000657073222e-05
